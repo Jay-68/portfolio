@@ -3,9 +3,10 @@
   margin: 0;
 }
 
-body {
+.content {
   width: 90%;
   margin: auto;
+  padding: 10px;
   font-family: 'Dosis', sans-serif;
   background-color: #a8c7cb;
   font-size: 20px;
