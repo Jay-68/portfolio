@@ -60,3 +60,6 @@ hr {
   font-weight: bold;
   text-decoration: none;
 }
+#projects a:hover{
+  color: #4f8901
+}
