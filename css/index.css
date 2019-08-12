@@ -4,11 +4,12 @@
 }
 
 body {
-  width: 85%;
+  width: 90%;
   margin: auto;
   font-family: 'Dosis', sans-serif;
   background-color: #84cded;
   font-size: 20px;
+  margin-top: 5px;
 }
 
 .navigation {
@@ -37,12 +38,14 @@ nav ul li a:hover {
   height: 30%;
   width: 30%;
 }
-h2{
+
+h2 {
   text-align: center;
   padding-top: 25px;
-
 }
-hr{
+
+hr {
   width: 40%;
   margin: auto;
+  margin-bottom: 15px;
 }
