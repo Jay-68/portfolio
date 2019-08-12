@@ -29,3 +29,9 @@ nav ul li a {
 nav ul li a:hover {
   color: #efc2d3;
 }
+
+#home>img {
+  border-radius: 50%;
+  height: 30%;
+  width: 30%;
+}
