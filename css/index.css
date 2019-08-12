@@ -8,3 +8,24 @@ body {
   margin: auto;
   font-family: 'Dosis', sans-serif;
 }
+
+.navigation {
+  background-color: #120e10;
+  margin-bottom: 10px;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 18px 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #db5777;
+}
+
+nav ul li a:hover {
+  color: #efc2d3;
+}
