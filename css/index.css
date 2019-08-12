@@ -63,3 +63,12 @@ hr {
 #projects a:hover{
   color: #4f8901
 }
+input{
+  display: block;
+  margin: 15px 0px;
+  padding: 10px 0px;
+
+}
+button{
+  display: block;
+}
