@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+body {
+  margin: 0;
+}
+
 .content {
   width: 90%;
   margin: auto;
@@ -62,6 +66,10 @@ hr {
   margin-bottom: 15px;
 }
 
+#about li {
+  list-style-type: none;
+}
+
 #projects a {
   color: #2a5800;
   font-weight: bold;
@@ -69,7 +77,14 @@ hr {
 }
 
 #projects a:hover {
-  color: #4f8901
+  color: #4f8901;
+}
+#projects img{
+  padding: 10px 0px;
+}
+.cent{
+  width: 25%;
+  margin: auto;
 }
 
 input {
