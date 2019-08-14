@@ -14,14 +14,14 @@ body {
   font-family: 'Dosis', sans-serif;
   background-color: #a8c7cb;
   font-size: 20px;
-  margin-top: 3px;
 }
 
 .navigation {
   background-color: #120e10;
   margin-bottom: 10px;
-  position: static;
+  position: fixed;
   top: 0;
+  width: 90%;
 }
 
 nav ul li {
@@ -44,6 +44,7 @@ nav ul li a:hover {
   border-radius: 50%;
   height: 30%;
   width: 30%;
+  padding-top: 54px;
 }
 
 #home p {
